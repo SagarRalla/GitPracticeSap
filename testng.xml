@@ -3,7 +3,7 @@
 <suite name="Best CICD">
     <test name="Testing1 CICD">
          <classes>
-             <class name="com.mt.gitpracticesap.GitPracticeSap"/>
+             <class name="com.mt.GitPracticeSap"/>
           </classes>
      </test> <!-- Test -->
 </suite> <!-- Suite -->
