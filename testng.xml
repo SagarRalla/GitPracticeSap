@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Best CICD">
+    <test name="Testing1 CICD">
+         <classes>
+             <class name="com.mt.gitpracticesap.GitPracticeSap"/>
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->
